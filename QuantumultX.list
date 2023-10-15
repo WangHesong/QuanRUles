@@ -572,11 +572,11 @@ DOMAIN-SUFFIX,yimg.com,节点选择
 DOMAIN,api.steampowered.com,节点选择
 DOMAIN,store.steampowered.com,节点选择
 
-DOMAIN,bahamut.akamaized.net,动画疯
-DOMAIN,gamer-cds.cdn.hinet.net,动画疯
-DOMAIN,gamer2-cds.cdn.hinet.net,动画疯
-DOMAIN-SUFFIX,bahamut.com.tw,动画疯
-DOMAIN-SUFFIX,gamer.com.tw,动画疯
+DOMAIN,bahamut.akamaized.net,节点选择
+DOMAIN,gamer-cds.cdn.hinet.net,节点选择
+DOMAIN,gamer2-cds.cdn.hinet.net,节点选择
+DOMAIN-SUFFIX,bahamut.com.tw,节点选择
+DOMAIN-SUFFIX,gamer.com.tw,节点选择
 
 #PROCESS-NAME,aria2c,DIRECT
 #PROCESS-NAME,fdm,DIRECT
