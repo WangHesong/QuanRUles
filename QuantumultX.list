@@ -449,9 +449,9 @@ DOMAIN,apps.apple.com,节点选择
 DOMAIN,itunes.apple.com,节点选择
 DOMAIN,api-glb-sea.smoot.apple.com,节点选择
 DOMAIN,lookup-api.apple.com,节点选择
-PROCESS-NAME,LookupViewService,节点选择
+#PROCESS-NAME,LookupViewService,节点选择
 DOMAIN,gspe1-ssl.ls.apple.com,节点选择
-PROCESS-NAME,News,节点选择
+#PROCESS-NAME,News,节点选择
 DOMAIN-SUFFIX,apple.news,节点选择
 DOMAIN,news-client.apple.com,节点选择
 DOMAIN,news-edge.apple.com,节点选择
@@ -578,17 +578,17 @@ DOMAIN,gamer2-cds.cdn.hinet.net,动画疯
 DOMAIN-SUFFIX,bahamut.com.tw,动画疯
 DOMAIN-SUFFIX,gamer.com.tw,动画疯
 
-PROCESS-NAME,aria2c,DIRECT
-PROCESS-NAME,fdm,DIRECT
-PROCESS-NAME,Folx,DIRECT
-PROCESS-NAME,NetTransport,DIRECT
-PROCESS-NAME,Thunder,DIRECT
-PROCESS-NAME,Transmission,DIRECT
-PROCESS-NAME,uTorrent,DIRECT
-PROCESS-NAME,WebTorrent,DIRECT
-PROCESS-NAME,WebTorrent Helper,DIRECT
-PROCESS-NAME,DownloadService,DIRECT
-PROCESS-NAME,Weiyun,DIRECT
+#PROCESS-NAME,aria2c,DIRECT
+#PROCESS-NAME,fdm,DIRECT
+#PROCESS-NAME,Folx,DIRECT
+#PROCESS-NAME,NetTransport,DIRECT
+#PROCESS-NAME,Thunder,DIRECT
+#PROCESS-NAME,Transmission,DIRECT
+#PROCESS-NAME,uTorrent,DIRECT
+#PROCESS-NAME,WebTorrent,DIRECT
+#PROCESS-NAME,WebTorrent Helper,DIRECT
+#PROCESS-NAME,DownloadService,DIRECT
+#PROCESS-NAME,Weiyun,DIRECT
 DOMAIN-KEYWORD,aria2,DIRECT
 DOMAIN-KEYWORD,xunlei,DIRECT
 DOMAIN-KEYWORD,yunpan,DIRECT
